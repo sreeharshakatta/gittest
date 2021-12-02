@@ -1,0 +1,79 @@
+[
+  {
+    "available": "false",
+    "manufacturer": "GM",
+    "manfYear": 1985,
+    "serialNumber": "H626TY435",
+    "modelNumber": "Cadillac",
+    "minSeats": 2,
+    "maxSeats": 7,
+    "city": "Boston",
+    "mcExpiryDate": "11-12-2021"
+  },
+  {
+    "available": "true",
+    "manufacturer": "Toyota",
+    "manfYear": 1987,
+    "serialNumber": "218921HITF",
+    "modelNumber": "Camry",
+    "minSeats": 3,
+    "maxSeats": 5,
+    "city": "NewYork",
+    "mcExpiryDate": "10-10-2020"
+  },
+  {
+    "available": "true",
+    "manufacturer": "Toyota",
+    "manfYear": 1999,
+    "serialNumber": "CND577RTY",
+    "modelNumber": "Camry",
+    "minSeats": 1,
+    "maxSeats": 8,
+    "city": "NewYork",
+    "mcExpiryDate": "10-12-2018"
+  },
+  {
+    "available": "true",
+    "manufacturer": "Aston Martin",
+    "manfYear": 2021,
+    "serialNumber": "3849432893",
+    "modelNumber": "D1",
+    "minSeats": 1,
+    "maxSeats": 2,
+    "city": "Boston",
+    "mcExpiryDate": "08-11-2047"
+  },
+  {
+    "available": "true",
+    "manufacturer": "Maserati",
+    "manfYear": 2021,
+    "serialNumber": "372HETEW",
+    "modelNumber": "M2",
+    "minSeats": 2,
+    "maxSeats": 6,
+    "city": "NewYork",
+    "mcExpiryDate": "11-23-2018"
+  },
+  {
+    "available": "true",
+    "manufacturer": "Lamborgihini",
+    "manfYear": 2018,
+    "serialNumber": "32477DJFUE",
+    "modelNumber": "Urus",
+    "minSeats": 2,
+    "maxSeats": 8,
+    "city": "Charlotte",
+    "mcExpiryDate": "05-11-2033"
+  },
+  {
+    "available": "true",
+    "manufacturer": "Porsche",
+    "manfYear": 2016,
+    "serialNumber": "VBFA6337D",
+    "modelNumber": "Carrera",
+    "minSeats": 1,
+    "maxSeats": 6,
+    "city": "Vegas",
+    "mcExpiryDate": "02-17-2027"
+  }
+]
