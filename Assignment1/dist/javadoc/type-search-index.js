@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ui","l":"CreateProfileJPanel"},{"p":"ui","l":"MainJFrame"},{"p":"userprofile","l":"UserProfile"},{"p":"ui","l":"ViewProfileJpanel"}]
